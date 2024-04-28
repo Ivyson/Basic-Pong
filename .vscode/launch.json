@@ -1,11 +1,12 @@
 {
+    "version": "0.2.0",
     "configurations": [
         {
             "type": "java",
-            "name": "PracticeJava",
+            "name": "PongGame",
             "request": "launch",
-            "mainClass": "PracticeJava",
-            "projectName": "Updated Calculator_1c11f259"
+            "mainClass": "PongGame",
+            "projectName": "PingPongGame_f9376f1f"
         },
         {
             "name": "CMake: CMake Script",
